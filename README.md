@@ -5,7 +5,7 @@
 <p align="center">
     Aplicação criada com o intuito de aprofundar os eus conhecimentos com integração de API.
     <br />
-    <a href="https://controle-financeiro-brown.vercel.app/"><strong>Saiba mais »</strong></a>
+    <a href="https://buscador-cep-omega-steel.vercel.app/"><strong>Saiba mais »</strong></a>
     <br />
   </p>
 </div>
@@ -38,22 +38,21 @@
 
 [![Product Name Screen Shot][product-screenshot]](www.exemplo.com)
 
-A aplicação web 'Controle Financeiro', foi criada com o intuito de organizar e gerir as minhas finanças.
-O usuário que decidir usar essa aplicação, desfrutará de uma grande ferramenta para organização financeira.
+A aplicação web 'Buscador CEP', foi criada com o intuito de ajudar os usuários a localizarem endereços através do CEP. Tornando assim, a busca por um endereço, mais rápida e prática.
 
 Tecnologias que foram utilizadas:
 
 - React.js
 - Styled-components
-- React-dom
-- React-scripts
+- React-router-dom
+- API CEP
 - React-icons
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GOAL-->
 ## **Objetivo**
-O objetivo deste site, é levar para os usuários uma ferramenta que auxilie no controle de suas finanças.
+O objetivo deste site, é levar para os usuários uma ferramenta que auxilie na busca de endereços.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +72,7 @@ O objetivo deste site, é levar para os usuários uma ferramenta que auxilie no 
 ### **Deployment**
 
 Vercel:
-https://controle-financeiro-brown.vercel.app/
+https://buscador-cep-omega-steel.vercel.app/
 
 <!-- GETTING STARTED -->
 ## Getting Started 
@@ -89,7 +88,7 @@ Para ter uma copia local, siga os passos abaixo:
 
 1. Clone do repositório
    ```sh
-   git clone https://github.com/lucasbreiafullstack/controle-financeiro
+   git clone https://github.com/lucasbreiafullstack/buscador-cep
    ```
 
 
@@ -98,7 +97,7 @@ Para ter uma copia local, siga os passos abaixo:
 <!-- USAGE -->
 ## Uso
 
-Site para educação financeira.
+Site para busca de endereços.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +105,7 @@ Site para educação financeira.
 ## Roadmap
 
 -  Início
-	* Página única onde você faz toda a gestão e controle das suas finanças. 
+	* Página única onde o usuário pode pesquisar por endereços através do CEP. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -116,7 +115,7 @@ Site para educação financeira.
 
 Lucas Breia  - lucas.devfullstack021@gmail.com
 
-Project Link: [https://controle-financeiro-brown.vercel.app/](https://controle-financeiro-brown.vercel.app/)
+Project Link: [https://buscador-cep-omega-steel.vercel.app/](https://buscador-cep-omega-steel.vercel.app/)
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejaques/)](https://www.linkedin.com/in/lucas-breia/)
@@ -137,7 +136,7 @@ Project Link: [https://controle-financeiro-brown.vercel.app/](https://controle-f
 [license-url]: https://github.com/lucasbreiafullstack/controle-financeiro/settings/codespaces
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-breia/
-[product-screenshot]: /img/controle.png
+[product-screenshot]: /src/img/Captura%20de%20Tela%20(12).png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
